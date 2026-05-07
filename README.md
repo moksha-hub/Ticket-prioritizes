@@ -64,7 +64,7 @@ The Tech Support Ticket Prioritizer is a MERN stack application designed to stre
 ### Backend Setup
 1. Clone the repository
    ```
-   git clone https://github.com/Vishal141014/Tech-Support-Ticket-Prioritizer
+   git clone https://github.com/moksha-hub/-Ticket-Prioritizer
 
 2. Navigate to server directory
    ```
